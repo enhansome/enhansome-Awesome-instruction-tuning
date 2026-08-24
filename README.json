@@ -1,7 +1,602 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2020-05",
+              "description": "UnifiedQA 46 750k UnifiedQA RoBerta 110-340 M",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258283918,
+                "language": "Python",
+                "last_commit": "2022-05-09T20:51:31Z",
+                "owner": "allenai",
+                "repo": "unifiedqa",
+                "stars": 441
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021-04",
+              "description": "CrossFit 159 71.M BART-CrossFit BART 140 M",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 358957932,
+                "language": "Python",
+                "last_commit": "2022-04-28T01:10:58Z",
+                "owner": "INK-USC",
+                "repo": "CrossFit",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021-09",
+              "description": "Flan 2021 62 4.4M Flan-LaMDA LaMDA 137B",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 398647982,
+                "language": "Python",
+                "last_commit": "2026-07-02T11:25:30Z",
+                "owner": "google-research",
+                "repo": "FLAN",
+                "stars": 1567
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021-10",
+              "description": "P3 62 12M TO, TO+, TO++ T5-LM 3-11B",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 368915773,
+                "language": "Python",
+                "last_commit": "2023-10-23T17:59:41Z",
+                "owner": "bigscience-workshop",
+                "repo": "promptsource",
+                "stars": 3030
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021-10",
+              "description": "MetalCL 142 3.5M MetalCL GPT-2 770 M",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 422664560,
+                "language": "Python",
+                "last_commit": "2023-04-15T18:00:47Z",
+                "owner": "facebookresearch",
+                "repo": "MetaICL",
+                "stars": 273
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2021-11",
+              "description": "ExMix 107 500 k ExT5 T5 220M-11B",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215890886,
+                "language": "Python",
+                "last_commit": "2026-07-08T23:37:09Z",
+                "owner": "google-research",
+                "repo": "text-to-text-transfer-transformer",
+                "stars": 6544
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022-04",
+              "description": "Super-Natural Inst. 1613 5M Tk-Instruct T5-LM, mT5 17-13B",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 375765893,
+                "language": "Python",
+                "last_commit": "2023-12-11T12:28:49Z",
+                "owner": "allenai",
+                "repo": "natural-instructions",
+                "stars": 1046
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022-10",
+              "description": "GLM 77 12M GLM-130B GLM 130 B",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 521021013,
+                "language": "Python",
+                "last_commit": "2023-07-25T09:01:49Z",
+                "owner": "zai-org",
+                "repo": "GLM-130B",
+                "stars": 7652
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022-10",
+              "description": "Flan 2022 1836 15M Flan-T5, Flan-PaLM T5-LM, PaLM 10 M-540 B",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 398647982,
+                "language": "Python",
+                "last_commit": "2026-07-02T11:25:30Z",
+                "owner": "google-research",
+                "repo": "FLAN",
+                "stars": 1567
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2022-12",
+              "description": "Unnatural Inst. 117 64 k T5-LM-Unnat. Inst. T5-LM 11B",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580013653,
+                "language": null,
+                "last_commit": "2023-02-23T06:26:18Z",
+                "owner": "orhonovich",
+                "repo": "unnatural-instructions",
+                "stars": 181
+              }
+            }
+          ],
+          "description": "Following Longpre et al., we list all existing instruction tuning datasets modified from traditional NLP tasks.",
+          "node_type": "group",
+          "title": "Modified from Traditional NLP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "alpaca",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612427246,
+                "language": "Python",
+                "last_commit": "2024-07-17T09:43:05Z",
+                "owner": "tatsu-lab",
+                "repo": "stanford_alpaca",
+                "stars": 30246
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alpaca_data",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612427246,
+                "language": "Python",
+                "last_commit": "2024-07-17T09:43:05Z",
+                "owner": "tatsu-lab",
+                "repo": "stanford_alpaca",
+                "stars": 30246
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alpaca-lora",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 613591358,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-07-29T13:37:49Z",
+                "owner": "tloen",
+                "repo": "alpaca-lora",
+                "stars": 18908
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alpaca_data",
+              "description": "、alpaca_data_cleaned",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612427246,
+                "language": "Python",
+                "last_commit": "2024-07-17T09:43:05Z",
+                "owner": "tatsu-lab",
+                "repo": "stanford_alpaca",
+                "stars": 30246
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chinese-Vicuna",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617734467,
+                "language": "C",
+                "last_commit": "2025-04-18T02:41:35Z",
+                "owner": "Facico",
+                "repo": "Chinese-Vicuna",
+                "stars": 4113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BELLE",
+              "description": "、GuanacoDataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 615256902,
+                "language": "HTML",
+                "last_commit": "2024-10-16T11:38:59Z",
+                "owner": "LianjiaTech",
+                "repo": "BELLE",
+                "stars": 8276
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alpaca-CoT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618345160,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-12-12T08:16:56Z",
+                "owner": "PhoebusSi",
+                "repo": "Alpaca-CoT",
+                "stars": 2791
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dataset",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618345160,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-12-12T08:16:56Z",
+                "owner": "PhoebusSi",
+                "repo": "Alpaca-CoT",
+                "stars": 2791
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dolly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618511002,
+                "language": "Python",
+                "last_commit": "2023-06-30T18:36:16Z",
+                "owner": "databrickslabs",
+                "repo": "dolly",
+                "stars": 10804
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alpaca_data",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612427246,
+                "language": "Python",
+                "last_commit": "2024-07-17T09:43:05Z",
+                "owner": "tatsu-lab",
+                "repo": "stanford_alpaca",
+                "stars": 30246
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chinese-LLaMA-Alpaca",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614325365,
+                "language": "Python",
+                "last_commit": "2026-04-19T00:58:05Z",
+                "owner": "ymcui",
+                "repo": "Chinese-LLaMA-Alpaca",
+                "stars": 18932
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alpaca_data_zh",
+              "description": "、pCLUE、translation2019zh、alpaca_data、Self-Instruct",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614325365,
+                "language": "Python",
+                "last_commit": "2026-04-19T00:58:05Z",
+                "owner": "ymcui",
+                "repo": "Chinese-LLaMA-Alpaca",
+                "stars": 18932
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ColossalChat",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422274596,
+                "language": "Python",
+                "last_commit": "2026-08-17T17:57:12Z",
+                "owner": "hpcaitech",
+                "repo": "ColossalAI",
+                "stars": 41438
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InstructionWild",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620222027,
+                "language": null,
+                "last_commit": "2024-06-09T14:33:50Z",
+                "owner": "XueFuzhao",
+                "repo": "InstructionWild",
+                "stars": 462
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Luotuo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616759180,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-09-03T06:27:48Z",
+                "owner": "LC1332",
+                "repo": "Luotuo-Chinese-LLM",
+                "stars": 3588
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trans_chinese_alpaca_data",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621582039,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-05-30T10:38:21Z",
+                "owner": "LC1332",
+                "repo": "Chinese-alpaca-lora",
+                "stars": 716
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cerebras-lora-alpaca",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621680621,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-04-06T08:29:53Z",
+                "owner": "lxe",
+                "repo": "cerebras-lora-alpaca",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AlpacaDataCleaned",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617068219,
+                "language": "Python",
+                "last_commit": "2026-03-07T14:15:41Z",
+                "owner": "gururise",
+                "repo": "AlpacaDataCleaned",
+                "stars": 1606
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generated by LLMs"
+        }
+      ],
+      "title": "Datasets and Models"
+    },
+    {
+      "description": "Additionally, we have provided a list of related repositories for further reference.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-instruction-learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 604404340,
+                "language": "Python",
+                "last_commit": "2024-04-04T19:48:35Z",
+                "owner": "RenzeLou",
+                "repo": "awesome-instruction-learning",
+                "stars": 512
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-instruction-dataset",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620902477,
+                "language": null,
+                "last_commit": "2024-01-04T21:14:59Z",
+                "owner": "yaodongC",
+                "repo": "awesome-instruction-dataset",
+                "stars": 1155
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Instruction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICL_PaperList",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 581380809,
+                "language": null,
+                "last_commit": "2024-10-08T09:18:01Z",
+                "owner": "dqxiu",
+                "repo": "ICL_PaperList",
+                "stars": 874
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "prompt-in-context-learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 611161753,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-05-29T01:00:03Z",
+                "owner": "EgoAlpha",
+                "repo": "prompt-in-context-learning",
+                "stars": 2248
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ICL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LM-reasoning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580204419,
+                "language": null,
+                "last_commit": "2023-11-13T08:44:02Z",
+                "owner": "jeffhj",
+                "repo": "LM-reasoning",
+                "stars": 570
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLM-Reasoning-Papers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 562071276,
+                "language": null,
+                "last_commit": "2026-04-20T00:57:27Z",
+                "owner": "atfortes",
+                "repo": "Awesome-LLM-Reasoning",
+                "stars": 3675
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chain-of-ThoughtsPapers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 478392650,
+                "language": null,
+                "last_commit": "2023-10-05T04:47:20Z",
+                "owner": "Timothyxxx",
+                "repo": "Chain-of-ThoughtsPapers",
+                "stars": 2103
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reason"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenICL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 606288940,
+                "language": "Python",
+                "last_commit": "2023-10-03T13:22:36Z",
+                "owner": "Shark-NLP",
+                "repo": "OpenICL",
+                "stars": 589
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Framework"
+        }
+      ],
+      "title": "Repositories"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T00:01:29.228Z",
+    "last_updated": "2026-08-24T14:26:19.609Z",
     "original_repository": "zhilizju/Awesome-instruction-tuning",
     "original_repository_id": 619043895,
     "original_repository_sha": "fd13dd1b7815cdc4c62e8347ae04b5666cb42a34",
