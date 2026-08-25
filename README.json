@@ -92,7 +92,7 @@
                 "last_commit": "2026-07-08T23:37:09Z",
                 "owner": "google-research",
                 "repo": "text-to-text-transfer-transformer",
-                "stars": 6544
+                "stars": 6545
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2023-07-25T09:01:49Z",
                 "owner": "zai-org",
                 "repo": "GLM-130B",
-                "stars": 7652
+                "stars": 7651
               }
             },
             {
@@ -294,7 +294,7 @@
                 "last_commit": "2023-06-30T18:36:16Z",
                 "owner": "databrickslabs",
                 "repo": "dolly",
-                "stars": 10804
+                "stars": 10805
               }
             },
             {
@@ -351,10 +351,10 @@
                 "archived": false,
                 "id": 422274596,
                 "language": "Python",
-                "last_commit": "2026-08-17T17:57:12Z",
+                "last_commit": "2026-08-24T17:46:02Z",
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41438
+                "stars": 41439
               }
             },
             {
@@ -546,7 +546,7 @@
                 "last_commit": "2026-04-20T00:57:27Z",
                 "owner": "atfortes",
                 "repo": "Awesome-LLM-Reasoning",
-                "stars": 3675
+                "stars": 3676
               }
             },
             {
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:19.609Z",
+    "last_updated": "2026-08-25T00:24:04.832Z",
     "original_repository": "zhilizju/Awesome-instruction-tuning",
     "original_repository_id": 619043895,
     "original_repository_sha": "fd13dd1b7815cdc4c62e8347ae04b5666cb42a34",
