@@ -7,8 +7,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2020-05",
-              "description": "UnifiedQA 46 750k UnifiedQA RoBerta 110-340 M",
+              "title": "UnifiedQA",
+              "description": "46 750k UnifiedQA RoBerta 110-340 M",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -22,8 +22,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021-04",
-              "description": "CrossFit 159 71.M BART-CrossFit BART 140 M",
+              "title": "CrossFit",
+              "description": "159 71.M BART-CrossFit BART 140 M",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -37,8 +37,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021-09",
-              "description": "Flan 2021 62 4.4M Flan-LaMDA LaMDA 137B",
+              "title": "Flan 2021",
+              "description": "62 4.4M Flan-LaMDA LaMDA 137B",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -52,8 +52,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021-10",
-              "description": "P3 62 12M TO, TO+, TO++ T5-LM 3-11B",
+              "title": "P3",
+              "description": "62 12M TO, TO+, TO++ T5-LM 3-11B",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -67,8 +67,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021-10",
-              "description": "MetalCL 142 3.5M MetalCL GPT-2 770 M",
+              "title": "MetalCL",
+              "description": "142 3.5M MetalCL GPT-2 770 M",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -82,8 +82,8 @@
             },
             {
               "node_type": "item",
-              "title": "2021-11",
-              "description": "ExMix 107 500 k ExT5 T5 220M-11B",
+              "title": "ExMix",
+              "description": "107 500 k ExT5 T5 220M-11B",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -97,8 +97,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022-04",
-              "description": "Super-Natural Inst. 1613 5M Tk-Instruct T5-LM, mT5 17-13B",
+              "title": "Super-Natural Inst.",
+              "description": "1613 5M Tk-Instruct T5-LM, mT5 17-13B",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -112,8 +112,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022-10",
-              "description": "GLM 77 12M GLM-130B GLM 130 B",
+              "title": "GLM",
+              "description": "77 12M GLM-130B GLM 130 B",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -127,8 +127,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022-10",
-              "description": "Flan 2022 1836 15M Flan-T5, Flan-PaLM T5-LM, PaLM 10 M-540 B",
+              "title": "Flan 2022",
+              "description": "1836 15M Flan-T5, Flan-PaLM T5-LM, PaLM 10 M-540 B",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -142,8 +142,8 @@
             },
             {
               "node_type": "item",
-              "title": "2022-12",
-              "description": "Unnatural Inst. 117 64 k T5-LM-Unnat. Inst. T5-LM 11B",
+              "title": "Unnatural Inst.",
+              "description": "117 64 k T5-LM-Unnat. Inst. T5-LM 11B",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -174,7 +174,7 @@
                 "last_commit": "2024-07-17T09:43:05Z",
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30246
+                "stars": 30245
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2024-07-17T09:43:05Z",
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30246
+                "stars": 30245
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2024-07-17T09:43:05Z",
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30246
+                "stars": 30245
               }
             },
             {
@@ -309,7 +309,7 @@
                 "last_commit": "2024-07-17T09:43:05Z",
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30246
+                "stars": 30245
               }
             },
             {
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T00:24:04.832Z",
+    "last_updated": "2026-08-25T06:26:03.388Z",
     "original_repository": "zhilizju/Awesome-instruction-tuning",
     "original_repository_id": 619043895,
     "original_repository_sha": "fd13dd1b7815cdc4c62e8347ae04b5666cb42a34",
