@@ -62,7 +62,7 @@
                 "last_commit": "2023-10-23T17:59:41Z",
                 "owner": "bigscience-workshop",
                 "repo": "promptsource",
-                "stars": 3030
+                "stars": 3031
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-07-08T23:37:09Z",
                 "owner": "google-research",
                 "repo": "text-to-text-transfer-transformer",
-                "stars": 6545
+                "stars": 6544
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2024-07-17T09:43:05Z",
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30245
+                "stars": 30244
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2024-07-17T09:43:05Z",
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30245
+                "stars": 30244
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2024-07-17T09:43:05Z",
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30245
+                "stars": 30244
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2024-10-16T11:38:59Z",
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8276
+                "stars": 8275
               }
             },
             {
@@ -294,7 +294,7 @@
                 "last_commit": "2023-06-30T18:36:16Z",
                 "owner": "databrickslabs",
                 "repo": "dolly",
-                "stars": 10805
+                "stars": 10804
               }
             },
             {
@@ -309,7 +309,7 @@
                 "last_commit": "2024-07-17T09:43:05Z",
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30245
+                "stars": 30244
               }
             },
             {
@@ -354,7 +354,7 @@
                 "last_commit": "2026-08-24T17:46:02Z",
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41439
+                "stars": 41440
               }
             },
             {
@@ -472,7 +472,7 @@
                 "last_commit": "2024-01-04T21:14:59Z",
                 "owner": "yaodongC",
                 "repo": "awesome-instruction-dataset",
-                "stars": 1155
+                "stars": 1154
               }
             }
           ],
@@ -546,7 +546,7 @@
                 "last_commit": "2026-04-20T00:57:27Z",
                 "owner": "atfortes",
                 "repo": "Awesome-LLM-Reasoning",
-                "stars": 3676
+                "stars": 3674
               }
             },
             {
@@ -561,7 +561,7 @@
                 "last_commit": "2023-10-05T04:47:20Z",
                 "owner": "Timothyxxx",
                 "repo": "Chain-of-ThoughtsPapers",
-                "stars": 2103
+                "stars": 2104
               }
             }
           ],
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:26:03.388Z",
+    "last_updated": "2026-08-26T00:25:37.153Z",
     "original_repository": "zhilizju/Awesome-instruction-tuning",
     "original_repository_id": 619043895,
     "original_repository_sha": "fd13dd1b7815cdc4c62e8347ae04b5666cb42a34",
