@@ -174,7 +174,7 @@
                 "last_commit": "2024-07-17T09:43:05Z",
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30244
+                "stars": 30247
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2024-07-17T09:43:05Z",
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30244
+                "stars": 30247
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2024-07-29T13:37:49Z",
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18908
+                "stars": 18906
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2024-07-17T09:43:05Z",
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30244
+                "stars": 30247
               }
             },
             {
@@ -294,7 +294,7 @@
                 "last_commit": "2023-06-30T18:36:16Z",
                 "owner": "databrickslabs",
                 "repo": "dolly",
-                "stars": 10804
+                "stars": 10805
               }
             },
             {
@@ -309,7 +309,7 @@
                 "last_commit": "2024-07-17T09:43:05Z",
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30244
+                "stars": 30247
               }
             },
             {
@@ -354,7 +354,7 @@
                 "last_commit": "2026-08-24T17:46:02Z",
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41440
+                "stars": 41441
               }
             },
             {
@@ -509,7 +509,7 @@
                 "last_commit": "2026-05-29T01:00:03Z",
                 "owner": "EgoAlpha",
                 "repo": "prompt-in-context-learning",
-                "stars": 2248
+                "stars": 2249
               }
             }
           ],
@@ -546,7 +546,7 @@
                 "last_commit": "2026-04-20T00:57:27Z",
                 "owner": "atfortes",
                 "repo": "Awesome-LLM-Reasoning",
-                "stars": 3674
+                "stars": 3675
               }
             },
             {
@@ -596,7 +596,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T00:25:37.153Z",
+    "last_updated": "2026-08-27T05:08:30.975Z",
     "original_repository": "zhilizju/Awesome-instruction-tuning",
     "original_repository_id": 619043895,
     "original_repository_sha": "fd13dd1b7815cdc4c62e8347ae04b5666cb42a34",
