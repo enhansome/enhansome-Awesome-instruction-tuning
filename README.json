@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UnifiedQA: Crossing Format Boundaries With a Single QA System",
+                "homepage": "https://arxiv.org/abs/2005.00700",
                 "id": 258283918,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-09T20:51:31Z",
+                "open_issues": 4,
                 "owner": "allenai",
                 "repo": "unifiedqa",
-                "stars": 441
+                "stars": 441,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for paper \"CrossFit :weight_lifting:: A Few-shot Learning Challenge for Cross-task Generalization in NLP\" (https://arxiv.org/abs/2104.08835)",
+                "homepage": null,
                 "id": 358957932,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-04-28T01:10:58Z",
+                "open_issues": 3,
                 "owner": "INK-USC",
                 "repo": "CrossFit",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -44,12 +54,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 398647982,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-02T11:25:30Z",
+                "open_issues": 44,
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1567
+                "stars": 1567,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -60,12 +75,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toolkit for creating, sharing and using natural language prompts.",
+                "homepage": null,
                 "id": 368915773,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-23T17:59:41Z",
+                "open_issues": 44,
                 "owner": "bigscience-workshop",
                 "repo": "promptsource",
-                "stars": 3031
+                "stars": 3031,
+                "topics": [
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -76,12 +100,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An original implementation of \"MetaICL Learning to Learn In Context\" by Sewon Min, Mike Lewis, Luke Zettlemoyer and Hannaneh Hajishirzi",
+                "homepage": null,
                 "id": 422664560,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-15T18:00:47Z",
+                "open_issues": 5,
                 "owner": "facebookresearch",
                 "repo": "MetaICL",
-                "stars": 273
+                "stars": 273,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -92,12 +121,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper \"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer\"",
+                "homepage": "https://arxiv.org/abs/1910.10683",
                 "id": 215890886,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-08T23:37:09Z",
+                "open_issues": 106,
                 "owner": "google-research",
                 "repo": "text-to-text-transfer-transformer",
-                "stars": 6545
+                "stars": 6545,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -108,12 +142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Expanding natural instructions ",
+                "homepage": "https://instructions.apps.allenai.org/",
                 "id": 375765893,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-11T12:28:49Z",
+                "open_issues": 78,
                 "owner": "allenai",
                 "repo": "natural-instructions",
-                "stars": 1046
+                "stars": 1046,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -124,12 +163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)",
+                "homepage": null,
                 "id": 521021013,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-25T09:01:49Z",
+                "open_issues": 124,
                 "owner": "zai-org",
                 "repo": "GLM-130B",
-                "stars": 7653
+                "stars": 7652,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -140,12 +184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 398647982,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-02T11:25:30Z",
+                "open_issues": 44,
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1567
+                "stars": 1567,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -156,12 +205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 580013653,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-02-23T06:26:18Z",
+                "open_issues": 2,
                 "owner": "orhonovich",
                 "repo": "unnatural-instructions",
-                "stars": 181
+                "stars": 181,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             }
@@ -179,12 +233,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+                "homepage": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
                 "id": 612427246,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-17T09:43:05Z",
+                "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30247
+                "stars": 30246,
+                "topics": [
+                  "deep-learning",
+                  "instruction-following",
+                  "language-model"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -195,12 +258,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+                "homepage": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
                 "id": 612427246,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-17T09:43:05Z",
+                "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30247
+                "stars": 30246,
+                "topics": [
+                  "deep-learning",
+                  "instruction-following",
+                  "language-model"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -211,12 +283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instruct-tune LLaMA on consumer hardware",
+                "homepage": null,
                 "id": 613591358,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-29T13:37:49Z",
+                "open_issues": 365,
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18906
+                "stars": 18908,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -227,12 +304,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+                "homepage": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
                 "id": 612427246,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-17T09:43:05Z",
+                "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30247
+                "stars": 30246,
+                "topics": [
+                  "deep-learning",
+                  "instruction-following",
+                  "language-model"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -243,12 +329,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca",
+                "homepage": "https://github.com/Facico/Chinese-Vicuna",
                 "id": 617734467,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-18T02:41:35Z",
+                "open_issues": 67,
                 "owner": "Facico",
                 "repo": "Chinese-Vicuna",
-                "stars": 4113
+                "stars": 4113,
+                "topics": [
+                  "alpaca",
+                  "chinese",
+                  "llama",
+                  "vicuna"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -259,12 +355,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）",
+                "homepage": null,
                 "id": 615256902,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-16T11:38:59Z",
+                "open_issues": 106,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8275
+                "stars": 8275,
+                "topics": [
+                  "bloom",
+                  "chinese-nlp",
+                  "gpt-evaluation",
+                  "gpt-q",
+                  "instruct-finetune",
+                  "instruct-gpt",
+                  "instruction-set",
+                  "llama",
+                  "lora",
+                  "open-models"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -275,12 +387,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to initiate any meaningful PR on this repo and integrate as many LLM related technologies as possible. 我们打造了方便研究人员上手和使用大模型等微调平台，我们欢迎开源爱好者发起任何有意义的pr！",
+                "homepage": null,
                 "id": 618345160,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-12T08:16:56Z",
+                "open_issues": 35,
                 "owner": "PhoebusSi",
                 "repo": "Alpaca-CoT",
-                "stars": 2791
+                "stars": 2791,
+                "topics": [
+                  "alpaca",
+                  "chatglm",
+                  "chatgpt",
+                  "cot",
+                  "instruction-tuning",
+                  "llama",
+                  "llm",
+                  "lora",
+                  "moss",
+                  "p-tuning",
+                  "parameter-efficient",
+                  "pytorch",
+                  "tabul",
+                  "tabular-data",
+                  "tabular-model"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -291,12 +424,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to initiate any meaningful PR on this repo and integrate as many LLM related technologies as possible. 我们打造了方便研究人员上手和使用大模型等微调平台，我们欢迎开源爱好者发起任何有意义的pr！",
+                "homepage": null,
                 "id": 618345160,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-12T08:16:56Z",
+                "open_issues": 35,
                 "owner": "PhoebusSi",
                 "repo": "Alpaca-CoT",
-                "stars": 2791
+                "stars": 2791,
+                "topics": [
+                  "alpaca",
+                  "chatglm",
+                  "chatgpt",
+                  "cot",
+                  "instruction-tuning",
+                  "llama",
+                  "llm",
+                  "lora",
+                  "moss",
+                  "p-tuning",
+                  "parameter-efficient",
+                  "pytorch",
+                  "tabul",
+                  "tabular-data",
+                  "tabular-model"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -307,12 +461,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+                "homepage": "https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html",
                 "id": 618511002,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-30T18:36:16Z",
+                "open_issues": 5,
                 "owner": "databrickslabs",
                 "repo": "dolly",
-                "stars": 10805
+                "stars": 10805,
+                "topics": [
+                  "chatbot",
+                  "databricks",
+                  "dolly",
+                  "gpt"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -323,12 +487,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+                "homepage": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
                 "id": 612427246,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-17T09:43:05Z",
+                "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30247
+                "stars": 30246,
+                "topics": [
+                  "deep-learning",
+                  "instruction-following",
+                  "language-model"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -339,12 +512,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)",
+                "homepage": "https://github.com/ymcui/Chinese-LLaMA-Alpaca/wiki",
                 "id": 614325365,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-19T00:58:05Z",
+                "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18934
+                "stars": 18934,
+                "topics": [
+                  "alpaca",
+                  "alpaca-2",
+                  "large-language-models",
+                  "llama",
+                  "llama-2",
+                  "llm",
+                  "lora",
+                  "nlp",
+                  "plm",
+                  "pre-trained-language-models",
+                  "quantization"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -355,12 +545,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)",
+                "homepage": "https://github.com/ymcui/Chinese-LLaMA-Alpaca/wiki",
                 "id": 614325365,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-19T00:58:05Z",
+                "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18934
+                "stars": 18934,
+                "topics": [
+                  "alpaca",
+                  "alpaca-2",
+                  "large-language-models",
+                  "llama",
+                  "llama-2",
+                  "llm",
+                  "lora",
+                  "nlp",
+                  "plm",
+                  "pre-trained-language-models",
+                  "quantization"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -371,12 +578,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Making large AI models cheaper, faster and more accessible",
+                "homepage": "https://www.colossalai.org",
                 "id": 422274596,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T17:46:02Z",
+                "open_issues": 504,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41443
+                "stars": 41443,
+                "topics": [
+                  "ai",
+                  "big-model",
+                  "data-parallelism",
+                  "deep-learning",
+                  "distributed-computing",
+                  "foundation-models",
+                  "heterogeneous-training",
+                  "hpc",
+                  "inference",
+                  "large-scale",
+                  "model-parallelism",
+                  "pipeline-parallelism"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -387,12 +612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 620222027,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-09T14:33:50Z",
+                "open_issues": 5,
                 "owner": "XueFuzhao",
                 "repo": "InstructionWild",
-                "stars": 462
+                "stars": 462,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -403,12 +633,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技",
+                "homepage": null,
                 "id": 616759180,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-03T06:27:48Z",
+                "open_issues": 6,
                 "owner": "LC1332",
                 "repo": "Luotuo-Chinese-LLM",
-                "stars": 3589
+                "stars": 3589,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -419,12 +654,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技",
+                "homepage": null,
                 "id": 621582039,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-30T10:38:21Z",
+                "open_issues": 5,
                 "owner": "LC1332",
                 "repo": "Chinese-alpaca-lora",
-                "stars": 716
+                "stars": 716,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -435,12 +675,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LoRA weights for Cerebras-GPT-2.7b finetuned on Alpaca dataset with shorter prompt",
+                "homepage": null,
                 "id": 621680621,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-04-06T08:29:53Z",
+                "open_issues": 3,
                 "owner": "lxe",
                 "repo": "cerebras-lora-alpaca",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -451,12 +696,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alpaca dataset from Stanford, cleaned and curated",
+                "homepage": null,
                 "id": 617068219,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-07T14:15:41Z",
+                "open_issues": 12,
                 "owner": "gururise",
                 "repo": "AlpacaDataCleaned",
-                "stars": 1607
+                "stars": 1607,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             }
@@ -480,12 +730,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Papers and Datasets on Instruction Tuning and Following. ✨✨✨",
+                "homepage": "https://arxiv.org/abs/2303.10475",
                 "id": 604404340,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-04T19:48:35Z",
+                "open_issues": 0,
                 "owner": "RenzeLou",
                 "repo": "awesome-instruction-learning",
-                "stars": 512
+                "stars": 512,
+                "topics": [
+                  "awesome-list",
+                  "datasets",
+                  "in-context-learning",
+                  "instruction",
+                  "instruction-learning",
+                  "instruction-tuning",
+                  "large-language-models",
+                  "paper-list",
+                  "pretrained-language-model",
+                  "prompt",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -496,12 +763,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)",
+                "homepage": null,
                 "id": 620902477,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-04T21:14:59Z",
+                "open_issues": 4,
                 "owner": "yaodongC",
                 "repo": "awesome-instruction-dataset",
-                "stars": 1154
+                "stars": 1154,
+                "topics": [
+                  "awsome-lists",
+                  "datasets",
+                  "gpt-3",
+                  "gpt-4",
+                  "instruction-following",
+                  "instruction-tuning",
+                  "language-model",
+                  "llama"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             }
@@ -519,12 +800,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Paper List for In-context Learning 🌷",
+                "homepage": null,
                 "id": 581380809,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-10-08T09:18:01Z",
+                "open_issues": 4,
                 "owner": "dqxiu",
                 "repo": "ICL_PaperList",
-                "stars": 874
+                "stars": 874,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -535,12 +821,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates. ",
+                "homepage": "https://egoalpha.com",
                 "id": 611161753,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-05-29T01:00:03Z",
+                "open_issues": 6,
                 "owner": "EgoAlpha",
                 "repo": "prompt-in-context-learning",
-                "stars": 2249
+                "stars": 2249,
+                "topics": [
+                  "ai-agent",
+                  "chain-of-thought",
+                  "chatbot",
+                  "chatgpt",
+                  "chatgpt-api",
+                  "cot",
+                  "in-context-learning",
+                  "language-modeling",
+                  "large-language-model",
+                  "llm",
+                  "pre-training",
+                  "prompt",
+                  "prompt-based-learning",
+                  "prompt-engineering",
+                  "prompt-learning"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             }
@@ -558,12 +865,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains a collection of papers and resources on Reasoning in Large Language Models.",
+                "homepage": null,
                 "id": 580204419,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-11-13T08:44:02Z",
+                "open_issues": 6,
                 "owner": "jeffhj",
                 "repo": "LM-reasoning",
-                "stars": 570
+                "stars": 570,
+                "topics": [
+                  "artificial-intelligence",
+                  "awesome-list",
+                  "chain-of-thought",
+                  "chatgpt",
+                  "deductive-reasoning",
+                  "gpt-3",
+                  "human-intelligence",
+                  "in-context-learning",
+                  "language-modeling",
+                  "language-models",
+                  "large-language-models",
+                  "llm",
+                  "natural-language-processing",
+                  "paper-list",
+                  "prompt-engineering",
+                  "prompt-learning",
+                  "reasoning"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -574,12 +904,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓",
+                "homepage": null,
                 "id": 562071276,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-20T00:57:27Z",
+                "open_issues": 27,
                 "owner": "atfortes",
                 "repo": "Awesome-LLM-Reasoning",
-                "stars": 3676
+                "stars": 3678,
+                "topics": [
+                  "awesome",
+                  "chain-of-thought",
+                  "chatgpt",
+                  "cot",
+                  "deepseek",
+                  "deepseek-r1",
+                  "gpt",
+                  "gpt-4o",
+                  "in-context-learning",
+                  "language-models",
+                  "mllm",
+                  "multimodal",
+                  "openai-o1",
+                  "papers",
+                  "prompt",
+                  "prompt-engineering",
+                  "reasoning",
+                  "strawberry"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             },
@@ -590,12 +944,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A trend starts from \"Chain of Thought Prompting Elicits Reasoning in Large Language Models\".",
+                "homepage": null,
                 "id": 478392650,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-10-05T04:47:20Z",
+                "open_issues": 0,
                 "owner": "Timothyxxx",
                 "repo": "Chain-of-ThoughtsPapers",
-                "stars": 2104
+                "stars": 2104,
+                "topics": [
+                  "chain-of-thought",
+                  "codex",
+                  "gpt-3",
+                  "in-context-learning",
+                  "large-language-models",
+                  "palm",
+                  "prompt-learning"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             }
@@ -613,12 +980,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenICL is an open-source framework to facilitate research, development, and prototyping of in-context learning.",
+                "homepage": null,
                 "id": 606288940,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-03T13:22:36Z",
+                "open_issues": 10,
                 "owner": "Shark-NLP",
                 "repo": "OpenICL",
-                "stars": 589
+                "stars": 589,
+                "topics": [
+                  "in-context-learning",
+                  "language-model",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
             }
@@ -632,15 +1008,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:07:13.617Z",
+    "last_updated": "2026-08-29T04:33:25.309Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
+      "homepage": null,
       "id": 619043895,
       "language": "Python",
+      "license": "Apache-2.0",
       "last_commit": "2023-06-12T10:00:13Z",
+      "open_issues": 1,
       "owner": "zhilizju",
       "repo": "Awesome-instruction-tuning",
-      "stars": 344
+      "stars": 344,
+      "topics": [
+        "alpaca",
+        "awesome",
+        "awesome-list",
+        "chatgpt",
+        "cross-task-generalization",
+        "gpt",
+        "in-context-learning",
+        "instruct-gpt",
+        "instruction-tuning",
+        "llm",
+        "llms",
+        "zero-shot"
+      ]
     },
     "original_repository_sha": "fd13dd1b7815cdc4c62e8347ae04b5666cb42a34",
     "enhanced_repository": "enhansome/enhansome-Awesome-instruction-tuning",
