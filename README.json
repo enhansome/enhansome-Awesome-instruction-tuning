@@ -172,7 +172,7 @@
                 "open_issues": 124,
                 "owner": "zai-org",
                 "repo": "GLM-130B",
-                "stars": 7652,
+                "stars": 7651,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -292,7 +292,7 @@
                 "open_issues": 365,
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18908,
+                "stars": 18909,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -587,7 +587,7 @@
                 "open_issues": 504,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41443,
+                "stars": 41446,
                 "topics": [
                   "ai",
                   "big-model",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:13:46.472Z",
+    "last_updated": "2026-08-30T01:46:22.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
