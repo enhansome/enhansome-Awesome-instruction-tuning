@@ -84,7 +84,7 @@
                 "open_issues": 44,
                 "owner": "bigscience-workshop",
                 "repo": "promptsource",
-                "stars": 3030,
+                "stars": 3032,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -583,7 +583,7 @@
                 "id": 422274596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-24T17:46:02Z",
+                "last_commit": "2026-08-31T17:52:00Z",
                 "open_issues": 504,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
@@ -913,7 +913,7 @@
                 "open_issues": 27,
                 "owner": "atfortes",
                 "repo": "Awesome-LLM-Reasoning",
-                "stars": 3679,
+                "stars": 3680,
                 "topics": [
                   "awesome",
                   "chain-of-thought",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:40:33.513Z",
+    "last_updated": "2026-09-01T02:05:37.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
