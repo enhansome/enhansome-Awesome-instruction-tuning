@@ -242,7 +242,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30240,
+                "stars": 30237,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -267,7 +267,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30240,
+                "stars": 30237,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -313,7 +313,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30240,
+                "stars": 30237,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -364,7 +364,7 @@
                 "open_issues": 106,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8273,
+                "stars": 8272,
                 "topics": [
                   "bloom",
                   "chinese-nlp",
@@ -396,7 +396,7 @@
                 "open_issues": 35,
                 "owner": "PhoebusSi",
                 "repo": "Alpaca-CoT",
-                "stars": 2788,
+                "stars": 2789,
                 "topics": [
                   "alpaca",
                   "chatglm",
@@ -433,7 +433,7 @@
                 "open_issues": 35,
                 "owner": "PhoebusSi",
                 "repo": "Alpaca-CoT",
-                "stars": 2788,
+                "stars": 2789,
                 "topics": [
                   "alpaca",
                   "chatglm",
@@ -470,7 +470,7 @@
                 "open_issues": 5,
                 "owner": "databrickslabs",
                 "repo": "dolly",
-                "stars": 10804,
+                "stars": 10805,
                 "topics": [
                   "chatbot",
                   "databricks",
@@ -496,7 +496,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30240,
+                "stars": 30237,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -584,10 +584,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T17:52:00Z",
-                "open_issues": 504,
+                "open_issues": 505,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41442,
+                "stars": 41443,
                 "topics": [
                   "ai",
                   "big-model",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T01:25:38.664Z",
+    "last_updated": "2026-09-05T01:27:43.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
