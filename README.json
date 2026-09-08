@@ -63,7 +63,7 @@
                 "open_issues": 44,
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1568,
+                "stars": 1567,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -151,7 +151,7 @@
                 "open_issues": 78,
                 "owner": "allenai",
                 "repo": "natural-instructions",
-                "stars": 1046,
+                "stars": 1047,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -172,7 +172,7 @@
                 "open_issues": 124,
                 "owner": "zai-org",
                 "repo": "GLM-130B",
-                "stars": 7647,
+                "stars": 7648,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -193,7 +193,7 @@
                 "open_issues": 44,
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1568,
+                "stars": 1567,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -242,7 +242,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30235,
+                "stars": 30236,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -267,7 +267,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30235,
+                "stars": 30236,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -292,7 +292,7 @@
                 "open_issues": 365,
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18910,
+                "stars": 18909,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -313,7 +313,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30235,
+                "stars": 30236,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -364,7 +364,7 @@
                 "open_issues": 106,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8272,
+                "stars": 8271,
                 "topics": [
                   "bloom",
                   "chinese-nlp",
@@ -496,7 +496,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30235,
+                "stars": 30236,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -521,7 +521,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18937,
+                "stars": 18938,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -554,7 +554,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18937,
+                "stars": 18938,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:20:10.709Z",
+    "last_updated": "2026-09-08T01:29:22.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
@@ -1020,7 +1020,7 @@
       "open_issues": 1,
       "owner": "zhilizju",
       "repo": "Awesome-instruction-tuning",
-      "stars": 344,
+      "stars": 343,
       "topics": [
         "alpaca",
         "awesome",
