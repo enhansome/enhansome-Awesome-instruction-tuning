@@ -242,7 +242,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30236,
+                "stars": 30238,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -267,7 +267,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30236,
+                "stars": 30238,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -313,7 +313,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30236,
+                "stars": 30238,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -338,7 +338,7 @@
                 "open_issues": 67,
                 "owner": "Facico",
                 "repo": "Chinese-Vicuna",
-                "stars": 4111,
+                "stars": 4110,
                 "topics": [
                   "alpaca",
                   "chinese",
@@ -496,7 +496,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30236,
+                "stars": 30238,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -587,7 +587,7 @@
                 "open_issues": 505,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41443,
+                "stars": 41442,
                 "topics": [
                   "ai",
                   "big-model",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:29:22.666Z",
+    "last_updated": "2026-09-09T01:37:27.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
