@@ -126,8 +126,8 @@
                 "id": 215890886,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-08T23:37:09Z",
-                "open_issues": 106,
+                "last_commit": "2026-09-09T15:07:08Z",
+                "open_issues": 108,
                 "owner": "google-research",
                 "repo": "text-to-text-transfer-transformer",
                 "stars": 6546,
@@ -292,7 +292,7 @@
                 "open_issues": 365,
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18909,
+                "stars": 18908,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -364,7 +364,7 @@
                 "open_issues": 106,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8271,
+                "stars": 8269,
                 "topics": [
                   "bloom",
                   "chinese-nlp",
@@ -521,7 +521,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18938,
+                "stars": 18942,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -554,7 +554,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18938,
+                "stars": 18942,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -584,10 +584,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T17:52:00Z",
-                "open_issues": 505,
+                "open_issues": 504,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41442,
+                "stars": 41441,
                 "topics": [
                   "ai",
                   "big-model",
@@ -642,7 +642,7 @@
                 "open_issues": 6,
                 "owner": "LC1332",
                 "repo": "Luotuo-Chinese-LLM",
-                "stars": 3588,
+                "stars": 3587,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -830,7 +830,7 @@
                 "open_issues": 6,
                 "owner": "EgoAlpha",
                 "repo": "prompt-in-context-learning",
-                "stars": 2247,
+                "stars": 2248,
                 "topics": [
                   "ai-agent",
                   "chain-of-thought",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:37:27.591Z",
+    "last_updated": "2026-09-10T01:31:35.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
