@@ -84,7 +84,7 @@
                 "open_issues": 44,
                 "owner": "bigscience-workshop",
                 "repo": "promptsource",
-                "stars": 3034,
+                "stars": 3035,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -151,7 +151,7 @@
                 "open_issues": 78,
                 "owner": "allenai",
                 "repo": "natural-instructions",
-                "stars": 1047,
+                "stars": 1048,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -172,7 +172,7 @@
                 "open_issues": 124,
                 "owner": "zai-org",
                 "repo": "GLM-130B",
-                "stars": 7648,
+                "stars": 7647,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -587,7 +587,7 @@
                 "open_issues": 504,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41438,
+                "stars": 41441,
                 "topics": [
                   "ai",
                   "big-model",
@@ -705,7 +705,7 @@
                 "open_issues": 12,
                 "owner": "gururise",
                 "repo": "AlpacaDataCleaned",
-                "stars": 1607,
+                "stars": 1608,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -809,7 +809,7 @@
                 "open_issues": 4,
                 "owner": "dqxiu",
                 "repo": "ICL_PaperList",
-                "stars": 874,
+                "stars": 873,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T01:27:54.318Z",
+    "last_updated": "2026-09-14T01:45:15.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
