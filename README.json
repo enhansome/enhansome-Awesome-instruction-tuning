@@ -63,7 +63,7 @@
                 "open_issues": 44,
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1568,
+                "stars": 1570,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -84,7 +84,7 @@
                 "open_issues": 44,
                 "owner": "bigscience-workshop",
                 "repo": "promptsource",
-                "stars": 3034,
+                "stars": 3035,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -109,7 +109,7 @@
                 "open_issues": 5,
                 "owner": "facebookresearch",
                 "repo": "MetaICL",
-                "stars": 273,
+                "stars": 274,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -193,7 +193,7 @@
                 "open_issues": 44,
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1568,
+                "stars": 1570,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -242,7 +242,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30240,
+                "stars": 30239,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -267,7 +267,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30240,
+                "stars": 30239,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -313,7 +313,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30240,
+                "stars": 30239,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -496,7 +496,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30240,
+                "stars": 30239,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -521,7 +521,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18942,
+                "stars": 18943,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -554,7 +554,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18942,
+                "stars": 18943,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -583,11 +583,11 @@
                 "id": 422274596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T17:47:42Z",
+                "last_commit": "2026-09-16T12:20:50Z",
                 "open_issues": 504,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41441,
+                "stars": 41440,
                 "topics": [
                   "ai",
                   "big-model",
@@ -642,7 +642,7 @@
                 "open_issues": 6,
                 "owner": "LC1332",
                 "repo": "Luotuo-Chinese-LLM",
-                "stars": 3587,
+                "stars": 3588,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -809,7 +809,7 @@
                 "open_issues": 4,
                 "owner": "dqxiu",
                 "repo": "ICL_PaperList",
-                "stars": 873,
+                "stars": 874,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -953,7 +953,7 @@
                 "open_issues": 0,
                 "owner": "Timothyxxx",
                 "repo": "Chain-of-ThoughtsPapers",
-                "stars": 2105,
+                "stars": 2106,
                 "topics": [
                   "chain-of-thought",
                   "codex",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:46:05.806Z",
+    "last_updated": "2026-09-17T01:48:04.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
@@ -1020,7 +1020,7 @@
       "open_issues": 1,
       "owner": "zhilizju",
       "repo": "Awesome-instruction-tuning",
-      "stars": 343,
+      "stars": 344,
       "topics": [
         "alpaca",
         "awesome",
