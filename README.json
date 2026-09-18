@@ -81,7 +81,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2023-10-23T17:59:41Z",
-                "open_issues": 44,
+                "open_issues": 43,
                 "owner": "bigscience-workshop",
                 "repo": "promptsource",
                 "stars": 3035,
@@ -242,7 +242,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30239,
+                "stars": 30236,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -267,7 +267,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30239,
+                "stars": 30236,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -313,7 +313,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30239,
+                "stars": 30236,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -496,7 +496,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30239,
+                "stars": 30236,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -587,7 +587,7 @@
                 "open_issues": 504,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41440,
+                "stars": 41442,
                 "topics": [
                   "ai",
                   "big-model",
@@ -830,7 +830,7 @@
                 "open_issues": 7,
                 "owner": "EgoAlpha",
                 "repo": "prompt-in-context-learning",
-                "stars": 2249,
+                "stars": 2247,
                 "topics": [
                   "ai-agent",
                   "chain-of-thought",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T01:48:04.048Z",
+    "last_updated": "2026-09-18T01:37:07.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
