@@ -84,7 +84,7 @@
                 "open_issues": 43,
                 "owner": "bigscience-workshop",
                 "repo": "promptsource",
-                "stars": 3032,
+                "stars": 3033,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -130,7 +130,7 @@
                 "open_issues": 107,
                 "owner": "google-research",
                 "repo": "text-to-text-transfer-transformer",
-                "stars": 6553,
+                "stars": 6552,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -242,7 +242,7 @@
                 "open_issues": 187,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30233,
+                "stars": 30231,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -267,7 +267,7 @@
                 "open_issues": 187,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30233,
+                "stars": 30231,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -313,7 +313,7 @@
                 "open_issues": 187,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30233,
+                "stars": 30231,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -396,7 +396,7 @@
                 "open_issues": 35,
                 "owner": "PhoebusSi",
                 "repo": "Alpaca-CoT",
-                "stars": 2789,
+                "stars": 2790,
                 "topics": [
                   "alpaca",
                   "chatglm",
@@ -433,7 +433,7 @@
                 "open_issues": 35,
                 "owner": "PhoebusSi",
                 "repo": "Alpaca-CoT",
-                "stars": 2789,
+                "stars": 2790,
                 "topics": [
                   "alpaca",
                   "chatglm",
@@ -496,7 +496,7 @@
                 "open_issues": 187,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30233,
+                "stars": 30231,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -583,11 +583,11 @@
                 "id": 422274596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T15:28:56Z",
-                "open_issues": 510,
+                "last_commit": "2026-09-22T07:18:49Z",
+                "open_issues": 515,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41439,
+                "stars": 41441,
                 "topics": [
                   "ai",
                   "big-model",
@@ -642,7 +642,7 @@
                 "open_issues": 6,
                 "owner": "LC1332",
                 "repo": "Luotuo-Chinese-LLM",
-                "stars": 3586,
+                "stars": 3585,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -739,7 +739,7 @@
                 "open_issues": 0,
                 "owner": "RenzeLou",
                 "repo": "awesome-instruction-learning",
-                "stars": 511,
+                "stars": 512,
                 "topics": [
                   "awesome-list",
                   "datasets",
@@ -830,7 +830,7 @@
                 "open_issues": 7,
                 "owner": "EgoAlpha",
                 "repo": "prompt-in-context-learning",
-                "stars": 2246,
+                "stars": 2248,
                 "topics": [
                   "ai-agent",
                   "chain-of-thought",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:55:57.082Z",
+    "last_updated": "2026-09-23T01:51:39.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
