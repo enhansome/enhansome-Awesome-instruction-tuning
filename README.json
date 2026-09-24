@@ -242,7 +242,7 @@
                 "open_issues": 187,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30231,
+                "stars": 30230,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -267,7 +267,7 @@
                 "open_issues": 187,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30231,
+                "stars": 30230,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -313,7 +313,7 @@
                 "open_issues": 187,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30231,
+                "stars": 30230,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -496,7 +496,7 @@
                 "open_issues": 187,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30231,
+                "stars": 30230,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -521,7 +521,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18941,
+                "stars": 18940,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -554,7 +554,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18941,
+                "stars": 18940,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -583,11 +583,11 @@
                 "id": 422274596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T07:18:49Z",
-                "open_issues": 515,
+                "last_commit": "2026-09-23T11:22:44Z",
+                "open_issues": 514,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41441,
+                "stars": 41440,
                 "topics": [
                   "ai",
                   "big-model",
@@ -772,7 +772,7 @@
                 "open_issues": 4,
                 "owner": "yaodongC",
                 "repo": "awesome-instruction-dataset",
-                "stars": 1154,
+                "stars": 1153,
                 "topics": [
                   "awsome-lists",
                   "datasets",
@@ -913,7 +913,7 @@
                 "open_issues": 27,
                 "owner": "atfortes",
                 "repo": "Awesome-LLM-Reasoning",
-                "stars": 3685,
+                "stars": 3686,
                 "topics": [
                   "awesome",
                   "chain-of-thought",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T01:51:39.742Z",
+    "last_updated": "2026-09-24T01:40:58.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
