@@ -130,7 +130,7 @@
                 "open_issues": 107,
                 "owner": "google-research",
                 "repo": "text-to-text-transfer-transformer",
-                "stars": 6552,
+                "stars": 6551,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -292,7 +292,7 @@
                 "open_issues": 365,
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18903,
+                "stars": 18901,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -396,7 +396,7 @@
                 "open_issues": 35,
                 "owner": "PhoebusSi",
                 "repo": "Alpaca-CoT",
-                "stars": 2790,
+                "stars": 2788,
                 "topics": [
                   "alpaca",
                   "chatglm",
@@ -433,7 +433,7 @@
                 "open_issues": 35,
                 "owner": "PhoebusSi",
                 "repo": "Alpaca-CoT",
-                "stars": 2790,
+                "stars": 2788,
                 "topics": [
                   "alpaca",
                   "chatglm",
@@ -470,7 +470,7 @@
                 "open_issues": 5,
                 "owner": "databrickslabs",
                 "repo": "dolly",
-                "stars": 10806,
+                "stars": 10805,
                 "topics": [
                   "chatbot",
                   "databricks",
@@ -521,7 +521,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18940,
+                "stars": 18939,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -554,7 +554,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18940,
+                "stars": 18939,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -583,11 +583,11 @@
                 "id": 422274596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T11:22:44Z",
-                "open_issues": 514,
+                "last_commit": "2026-09-24T08:59:40Z",
+                "open_issues": 508,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41440,
+                "stars": 41442,
                 "topics": [
                   "ai",
                   "big-model",
@@ -830,7 +830,7 @@
                 "open_issues": 7,
                 "owner": "EgoAlpha",
                 "repo": "prompt-in-context-learning",
-                "stars": 2248,
+                "stars": 2247,
                 "topics": [
                   "ai-agent",
                   "chain-of-thought",
@@ -910,7 +910,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-04-20T00:57:27Z",
-                "open_issues": 27,
+                "open_issues": 26,
                 "owner": "atfortes",
                 "repo": "Awesome-LLM-Reasoning",
                 "stars": 3686,
@@ -953,7 +953,7 @@
                 "open_issues": 0,
                 "owner": "Timothyxxx",
                 "repo": "Chain-of-ThoughtsPapers",
-                "stars": 2105,
+                "stars": 2104,
                 "topics": [
                   "chain-of-thought",
                   "codex",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T01:40:58.991Z",
+    "last_updated": "2026-09-25T01:58:04.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
