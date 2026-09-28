@@ -239,10 +239,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-07-17T09:43:05Z",
-                "open_issues": 187,
+                "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30235,
+                "stars": 30233,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -264,10 +264,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-07-17T09:43:05Z",
-                "open_issues": 187,
+                "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30235,
+                "stars": 30233,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -292,7 +292,7 @@
                 "open_issues": 364,
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18901,
+                "stars": 18900,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -310,10 +310,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-07-17T09:43:05Z",
-                "open_issues": 187,
+                "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30235,
+                "stars": 30233,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -364,7 +364,7 @@
                 "open_issues": 106,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8270,
+                "stars": 8269,
                 "topics": [
                   "bloom",
                   "chinese-nlp",
@@ -470,7 +470,7 @@
                 "open_issues": 5,
                 "owner": "databrickslabs",
                 "repo": "dolly",
-                "stars": 10805,
+                "stars": 10804,
                 "topics": [
                   "chatbot",
                   "databricks",
@@ -493,10 +493,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-07-17T09:43:05Z",
-                "open_issues": 187,
+                "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30235,
+                "stars": 30233,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -521,7 +521,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18938,
+                "stars": 18937,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -554,7 +554,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18938,
+                "stars": 18937,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -583,11 +583,11 @@
                 "id": 422274596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T08:59:40Z",
-                "open_issues": 511,
+                "last_commit": "2026-09-27T08:48:01Z",
+                "open_issues": 512,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41444,
+                "stars": 41443,
                 "topics": [
                   "ai",
                   "big-model",
@@ -642,7 +642,7 @@
                 "open_issues": 6,
                 "owner": "LC1332",
                 "repo": "Luotuo-Chinese-LLM",
-                "stars": 3585,
+                "stars": 3584,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -913,7 +913,7 @@
                 "open_issues": 26,
                 "owner": "atfortes",
                 "repo": "Awesome-LLM-Reasoning",
-                "stars": 3686,
+                "stars": 3687,
                 "topics": [
                   "awesome",
                   "chain-of-thought",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:54:42.506Z",
+    "last_updated": "2026-09-28T02:00:50.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
