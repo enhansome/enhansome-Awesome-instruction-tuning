@@ -123,7 +123,7 @@ Additionally, we have provided a list of related repositories for further refere
 
 [LM-reasoning](https://github.com/jeffhj/LM-reasoning) ⭐ 570 | 🐛 6 | 📅 2023-11-13
 
-[LLM-Reasoning-Papers](https://github.com/atfortes/LLM-Reasoning-Papers) ⭐ 3,691 | 🐛 26 | 📅 2026-04-20
+[LLM-Reasoning-Papers](https://github.com/atfortes/LLM-Reasoning-Papers) ⭐ 3,692 | 🐛 27 | 📅 2026-04-20
 
 [Chain-of-ThoughtsPapers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers) ⚠️ Archived
 

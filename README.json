@@ -229,7 +229,7 @@
             {
               "node_type": "item",
               "title": "alpaca",
-              "description": null,
+              "description": "tatsu-lab/stanford_alpaca",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -254,7 +254,7 @@
             {
               "node_type": "item",
               "title": "alpaca_data",
-              "description": null,
+              "description": "tatsu-lab/stanford_alpaca",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -279,7 +279,7 @@
             {
               "node_type": "item",
               "title": "alpaca-lora",
-              "description": null,
+              "description": "tloen/alpaca-lora",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -325,7 +325,7 @@
             {
               "node_type": "item",
               "title": "Chinese-Vicuna",
-              "description": null,
+              "description": "Facico/Chinese-Vicuna",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -383,7 +383,7 @@
             {
               "node_type": "item",
               "title": "Alpaca-CoT",
-              "description": null,
+              "description": "PhoebusSi/Alpaca-CoT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -420,7 +420,7 @@
             {
               "node_type": "item",
               "title": "dataset",
-              "description": null,
+              "description": "PhoebusSi/Alpaca-CoT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -457,7 +457,7 @@
             {
               "node_type": "item",
               "title": "dolly",
-              "description": null,
+              "description": "databrickslabs/dolly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -483,7 +483,7 @@
             {
               "node_type": "item",
               "title": "alpaca_data",
-              "description": null,
+              "description": "tatsu-lab/stanford_alpaca",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -508,7 +508,7 @@
             {
               "node_type": "item",
               "title": "Chinese-LLaMA-Alpaca",
-              "description": null,
+              "description": "ymcui/Chinese-LLaMA-Alpaca",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -574,7 +574,7 @@
             {
               "node_type": "item",
               "title": "ColossalChat",
-              "description": null,
+              "description": "hpcaitech/ColossalAI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -608,7 +608,7 @@
             {
               "node_type": "item",
               "title": "InstructionWild",
-              "description": null,
+              "description": "XueFuzhao/InstructionWild",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -629,7 +629,7 @@
             {
               "node_type": "item",
               "title": "Luotuo",
-              "description": null,
+              "description": "LC1332/Luotuo-Chinese-LLM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -650,7 +650,7 @@
             {
               "node_type": "item",
               "title": "trans_chinese_alpaca_data",
-              "description": null,
+              "description": "LC1332/Chinese-alpaca-lora",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -671,7 +671,7 @@
             {
               "node_type": "item",
               "title": "cerebras-lora-alpaca",
-              "description": null,
+              "description": "lxe/cerebras-lora-alpaca",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -692,7 +692,7 @@
             {
               "node_type": "item",
               "title": "AlpacaDataCleaned",
-              "description": null,
+              "description": "gururise/AlpacaDataCleaned",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -726,7 +726,7 @@
             {
               "node_type": "item",
               "title": "awesome-instruction-learning",
-              "description": null,
+              "description": "RenzeLou/awesome-instruction-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -759,7 +759,7 @@
             {
               "node_type": "item",
               "title": "awesome-instruction-dataset",
-              "description": null,
+              "description": "yaodongC/awesome-instruction-dataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -796,7 +796,7 @@
             {
               "node_type": "item",
               "title": "ICL_PaperList",
-              "description": null,
+              "description": "dqxiu/ICL_PaperList",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -817,7 +817,7 @@
             {
               "node_type": "item",
               "title": "prompt-in-context-learning",
-              "description": null,
+              "description": "EgoAlpha/prompt-in-context-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -861,7 +861,7 @@
             {
               "node_type": "item",
               "title": "LM-reasoning",
-              "description": null,
+              "description": "jeffhj/LM-reasoning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -900,7 +900,7 @@
             {
               "node_type": "item",
               "title": "LLM-Reasoning-Papers",
-              "description": null,
+              "description": "atfortes/Awesome-LLM-Reasoning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -910,10 +910,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-04-20T00:57:27Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "atfortes",
                 "repo": "Awesome-LLM-Reasoning",
-                "stars": 3691,
+                "stars": 3692,
                 "topics": [
                   "awesome",
                   "chain-of-thought",
@@ -940,7 +940,7 @@
             {
               "node_type": "item",
               "title": "Chain-of-ThoughtsPapers",
-              "description": null,
+              "description": "Timothyxxx/Chain-of-ThoughtsPapers",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -976,7 +976,7 @@
             {
               "node_type": "item",
               "title": "OpenICL",
-              "description": null,
+              "description": "Shark-NLP/OpenICL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:22:46.205Z",
+    "last_updated": "2026-10-03T04:30:33.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
