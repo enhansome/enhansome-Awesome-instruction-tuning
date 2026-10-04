@@ -151,7 +151,7 @@
                 "open_issues": 78,
                 "owner": "allenai",
                 "repo": "natural-instructions",
-                "stars": 1049,
+                "stars": 1050,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -172,7 +172,7 @@
                 "open_issues": 123,
                 "owner": "zai-org",
                 "repo": "GLM-130B",
-                "stars": 7651,
+                "stars": 7650,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -587,7 +587,7 @@
                 "open_issues": 514,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41442,
+                "stars": 41440,
                 "topics": [
                   "ai",
                   "big-model",
@@ -705,7 +705,7 @@
                 "open_issues": 12,
                 "owner": "gururise",
                 "repo": "AlpacaDataCleaned",
-                "stars": 1610,
+                "stars": 1611,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:30:33.243Z",
+    "last_updated": "2026-10-04T02:53:04.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
