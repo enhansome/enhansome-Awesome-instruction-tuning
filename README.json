@@ -63,7 +63,7 @@
                 "open_issues": 44,
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1574,
+                "stars": 1575,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -84,7 +84,7 @@
                 "open_issues": 43,
                 "owner": "bigscience-workshop",
                 "repo": "promptsource",
-                "stars": 3036,
+                "stars": 3037,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -126,11 +126,11 @@
                 "id": 215890886,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:19:16Z",
-                "open_issues": 110,
+                "last_commit": "2026-10-06T10:50:48Z",
+                "open_issues": 109,
                 "owner": "google-research",
                 "repo": "text-to-text-transfer-transformer",
-                "stars": 6555,
+                "stars": 6556,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -193,7 +193,7 @@
                 "open_issues": 44,
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1574,
+                "stars": 1575,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -338,7 +338,7 @@
                 "open_issues": 67,
                 "owner": "Facico",
                 "repo": "Chinese-Vicuna",
-                "stars": 4109,
+                "stars": 4108,
                 "topics": [
                   "alpaca",
                   "chinese",
@@ -587,7 +587,7 @@
                 "open_issues": 514,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41439,
+                "stars": 41441,
                 "topics": [
                   "ai",
                   "big-model",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:31:15.976Z",
+    "last_updated": "2026-10-07T02:44:14.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
