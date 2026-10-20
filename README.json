@@ -84,7 +84,7 @@
                 "open_issues": 43,
                 "owner": "bigscience-workshop",
                 "repo": "promptsource",
-                "stars": 3040,
+                "stars": 3041,
                 "topics": [
                   "machine-learning",
                   "natural-language-processing",
@@ -127,7 +127,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-12T19:32:28Z",
-                "open_issues": 109,
+                "open_issues": 110,
                 "owner": "google-research",
                 "repo": "text-to-text-transfer-transformer",
                 "stars": 6563,
@@ -292,7 +292,7 @@
                 "open_issues": 364,
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18888,
+                "stars": 18886,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -521,7 +521,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18926,
+                "stars": 18929,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -554,7 +554,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18926,
+                "stars": 18929,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -583,11 +583,11 @@
                 "id": 422274596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T12:13:52Z",
-                "open_issues": 505,
+                "last_commit": "2026-10-20T00:07:47Z",
+                "open_issues": 481,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41432,
+                "stars": 41431,
                 "topics": [
                   "ai",
                   "big-model",
@@ -705,7 +705,7 @@
                 "open_issues": 12,
                 "owner": "gururise",
                 "repo": "AlpacaDataCleaned",
-                "stars": 1611,
+                "stars": 1612,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -772,7 +772,7 @@
                 "open_issues": 4,
                 "owner": "yaodongC",
                 "repo": "awesome-instruction-dataset",
-                "stars": 1152,
+                "stars": 1153,
                 "topics": [
                   "awsome-lists",
                   "datasets",
@@ -830,7 +830,7 @@
                 "open_issues": 7,
                 "owner": "EgoAlpha",
                 "repo": "prompt-in-context-learning",
-                "stars": 2246,
+                "stars": 2247,
                 "topics": [
                   "ai-agent",
                   "chain-of-thought",
@@ -910,10 +910,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-04-20T00:57:27Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "atfortes",
                 "repo": "Awesome-LLM-Reasoning",
-                "stars": 3695,
+                "stars": 3696,
                 "topics": [
                   "awesome",
                   "chain-of-thought",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T01:51:39.234Z",
+    "last_updated": "2026-10-20T02:10:25.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
