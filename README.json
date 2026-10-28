@@ -292,7 +292,7 @@
                 "open_issues": 364,
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18889,
+                "stars": 18891,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -521,7 +521,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18923,
+                "stars": 18922,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -554,7 +554,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18923,
+                "stars": 18922,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -583,11 +583,11 @@
                 "id": 422274596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T02:19:58Z",
-                "open_issues": 472,
+                "last_commit": "2026-10-28T01:48:08Z",
+                "open_issues": 471,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41430,
+                "stars": 41428,
                 "topics": [
                   "ai",
                   "big-model",
@@ -705,7 +705,7 @@
                 "open_issues": 12,
                 "owner": "gururise",
                 "repo": "AlpacaDataCleaned",
-                "stars": 1611,
+                "stars": 1610,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -826,8 +826,8 @@
                 "id": 611161753,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-27T01:00:05Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-28T01:00:03Z",
+                "open_issues": 6,
                 "owner": "EgoAlpha",
                 "repo": "prompt-in-context-learning",
                 "stars": 2249,
@@ -913,7 +913,7 @@
                 "open_issues": 29,
                 "owner": "atfortes",
                 "repo": "Awesome-LLM-Reasoning",
-                "stars": 3700,
+                "stars": 3701,
                 "topics": [
                   "awesome",
                   "chain-of-thought",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T02:28:18.174Z",
+    "last_updated": "2026-10-28T02:36:57.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
