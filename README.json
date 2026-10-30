@@ -63,7 +63,7 @@
                 "open_issues": 44,
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1574,
+                "stars": 1575,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "google-research",
                 "repo": "text-to-text-transfer-transformer",
-                "stars": 6562,
+                "stars": 6563,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -193,7 +193,7 @@
                 "open_issues": 44,
                 "owner": "google-research",
                 "repo": "FLAN",
-                "stars": 1574,
+                "stars": 1575,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -242,7 +242,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30232,
+                "stars": 30231,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -267,7 +267,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30232,
+                "stars": 30231,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -292,7 +292,7 @@
                 "open_issues": 364,
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18891,
+                "stars": 18890,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -313,7 +313,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30232,
+                "stars": 30231,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -364,7 +364,7 @@
                 "open_issues": 106,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8265,
+                "stars": 8264,
                 "topics": [
                   "bloom",
                   "chinese-nlp",
@@ -496,7 +496,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30232,
+                "stars": 30231,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -521,7 +521,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18923,
+                "stars": 18922,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -554,7 +554,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18923,
+                "stars": 18922,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -587,7 +587,7 @@
                 "open_issues": 471,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41429,
+                "stars": 41433,
                 "topics": [
                   "ai",
                   "big-model",
@@ -739,7 +739,7 @@
                 "open_issues": 1,
                 "owner": "RenzeLou",
                 "repo": "awesome-instruction-learning",
-                "stars": 512,
+                "stars": 513,
                 "topics": [
                   "awesome-list",
                   "datasets",
@@ -826,7 +826,7 @@
                 "id": 611161753,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-29T01:00:04Z",
+                "last_commit": "2026-10-30T01:00:03Z",
                 "open_issues": 6,
                 "owner": "EgoAlpha",
                 "repo": "prompt-in-context-learning",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T02:56:21.561Z",
+    "last_updated": "2026-10-30T03:00:24.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
