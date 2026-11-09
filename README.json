@@ -242,7 +242,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30223,
+                "stars": 30222,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -267,7 +267,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30223,
+                "stars": 30222,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -313,7 +313,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30223,
+                "stars": 30222,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -361,7 +361,7 @@
                 "language": "HTML",
                 "license": "Apache-2.0",
                 "last_commit": "2024-10-16T11:38:59Z",
-                "open_issues": 106,
+                "open_issues": 105,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
                 "stars": 8261,
@@ -496,7 +496,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30223,
+                "stars": 30222,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -587,7 +587,7 @@
                 "open_issues": 340,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41429,
+                "stars": 41430,
                 "topics": [
                   "ai",
                   "big-model",
@@ -826,7 +826,7 @@
                 "id": 611161753,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-08T01:00:04Z",
+                "last_commit": "2026-11-09T01:00:04Z",
                 "open_issues": 6,
                 "owner": "EgoAlpha",
                 "repo": "prompt-in-context-learning",
@@ -913,7 +913,7 @@
                 "open_issues": 29,
                 "owner": "atfortes",
                 "repo": "Awesome-LLM-Reasoning",
-                "stars": 3710,
+                "stars": 3711,
                 "topics": [
                   "awesome",
                   "chain-of-thought",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:45:43.686Z",
+    "last_updated": "2026-11-09T03:03:15.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
