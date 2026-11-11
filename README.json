@@ -172,7 +172,7 @@
                 "open_issues": 123,
                 "owner": "zai-org",
                 "repo": "GLM-130B",
-                "stars": 7641,
+                "stars": 7642,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -242,7 +242,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30223,
+                "stars": 30224,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -267,7 +267,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30223,
+                "stars": 30224,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -313,7 +313,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30223,
+                "stars": 30224,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -364,7 +364,7 @@
                 "open_issues": 105,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8261,
+                "stars": 8262,
                 "topics": [
                   "bloom",
                   "chinese-nlp",
@@ -496,7 +496,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30223,
+                "stars": 30224,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -521,7 +521,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18916,
+                "stars": 18917,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -554,7 +554,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18916,
+                "stars": 18917,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -583,11 +583,11 @@
                 "id": 422274596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T18:56:52Z",
-                "open_issues": 342,
+                "last_commit": "2026-11-10T17:15:08Z",
+                "open_issues": 346,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41431,
+                "stars": 41432,
                 "topics": [
                   "ai",
                   "big-model",
@@ -642,7 +642,7 @@
                 "open_issues": 6,
                 "owner": "LC1332",
                 "repo": "Luotuo-Chinese-LLM",
-                "stars": 3576,
+                "stars": 3575,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -826,7 +826,7 @@
                 "id": 611161753,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-10T01:00:04Z",
+                "last_commit": "2026-11-11T01:00:04Z",
                 "open_issues": 6,
                 "owner": "EgoAlpha",
                 "repo": "prompt-in-context-learning",
@@ -913,7 +913,7 @@
                 "open_issues": 29,
                 "owner": "atfortes",
                 "repo": "Awesome-LLM-Reasoning",
-                "stars": 3711,
+                "stars": 3713,
                 "topics": [
                   "awesome",
                   "chain-of-thought",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:48:56.862Z",
+    "last_updated": "2026-11-11T03:10:07.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
