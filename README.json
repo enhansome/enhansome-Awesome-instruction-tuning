@@ -130,7 +130,7 @@
                 "open_issues": 110,
                 "owner": "google-research",
                 "repo": "text-to-text-transfer-transformer",
-                "stars": 6566,
+                "stars": 6565,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:07:13.617Z"
@@ -364,7 +364,7 @@
                 "open_issues": 105,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8260,
+                "stars": 8258,
                 "topics": [
                   "bloom",
                   "chinese-nlp",
@@ -521,7 +521,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18914,
+                "stars": 18913,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -554,7 +554,7 @@
                 "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18914,
+                "stars": 18913,
                 "topics": [
                   "alpaca",
                   "alpaca-2",
@@ -583,11 +583,11 @@
                 "id": 422274596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T02:10:24Z",
-                "open_issues": 366,
+                "last_commit": "2026-11-13T16:26:52Z",
+                "open_issues": 367,
                 "owner": "hpcaitech",
                 "repo": "ColossalAI",
-                "stars": 41425,
+                "stars": 41424,
                 "topics": [
                   "ai",
                   "big-model",
@@ -826,11 +826,11 @@
                 "id": 611161753,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-13T01:00:04Z",
+                "last_commit": "2026-11-14T01:00:06Z",
                 "open_issues": 6,
                 "owner": "EgoAlpha",
                 "repo": "prompt-in-context-learning",
-                "stars": 2252,
+                "stars": 2253,
                 "topics": [
                   "ai-agent",
                   "chain-of-thought",
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:39:53.753Z",
+    "last_updated": "2026-11-14T03:38:26.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome instruction tuning datasets, models, papers and repositories.",
